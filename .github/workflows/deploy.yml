@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - deploy
+      - ampani-patch-1
 
 env:
 
